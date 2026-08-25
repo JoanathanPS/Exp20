@@ -4,7 +4,7 @@ PROJECT_NAME = "Team Task Manager"
 
 
 def main():
-    print(f"Welcome to {PROJECT_NAME}")
+    print(f"Welcome to {PROJECT_NAME} -- Module A (users) online")
 
 
 if __name__ == "__main__":
